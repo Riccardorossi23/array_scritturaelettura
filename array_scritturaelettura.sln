@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array_scritturaelettura", "array_scritturaelettura\array_scritturaelettura.csproj", "{C98F6C76-6609-4DFA-9D8A-B95096943AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98F6C76-6609-4DFA-9D8A-B95096943AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98F6C76-6609-4DFA-9D8A-B95096943AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98F6C76-6609-4DFA-9D8A-B95096943AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98F6C76-6609-4DFA-9D8A-B95096943AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {687A2EE8-FCE7-40E7-8CB1-FF2363F5FF85}
+	EndGlobalSection
+EndGlobal

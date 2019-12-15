@@ -1,0 +1,18 @@
+﻿<Window x:Class="array_scritturaelettura.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:array_scritturaelettura"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button IsEnabled="True" Content="Genera" HorizontalAlignment="Left" Height="71" Margin="52,172,0,0" VerticalAlignment="Top" Width="158" Click="btnGenera_Click"/>
+        <Button Content="reset" HorizontalAlignment="Left" Height="71" Margin="422,172,0,0" VerticalAlignment="Top" Width="169" Click="btnReset_Click"/>
+        <TextBox x:Name="txtDimensione" HorizontalAlignment="Left" Height="26" Margin="52,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="158"/>
+        <TextBox x:Name="txtStatus" HorizontalAlignment="Left" Height="28" Margin="422,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="169"/>
+        <TextBox x:Name="txtOutput" HorizontalAlignment="Left" Height="43" Margin="52,331,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="489"/>
+        <Label Content="Dimensione array" HorizontalAlignment="Left" Height="47" Margin="52,43,0,0" VerticalAlignment="Top" Width="158"/>
+
+    </Grid>
+</Window>
