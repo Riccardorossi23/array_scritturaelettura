@@ -121,6 +121,7 @@ namespace array_scritturaelettura
             txtDimensione.Text = "";
             txtStatus.Text = "";
                txtOutput.Text="";
+
         }
     }
 }
